@@ -10,9 +10,9 @@
 <body>
    <div>    
        <div class = "menu">
-       <a href="index.html">Home</a>
-       <a href="populart.html">Popular Tricks</a>
-       <a href="zhalloffam.html">Hall of Fame</a>
+       <a href="index.php">Home</a>
+       <a href="populart.php">Popular Tricks</a>
+       <a href="zhalloffam.php">Hall of Fame</a>
        </div>
 
     <div id = "heading">
