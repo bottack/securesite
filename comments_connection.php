@@ -16,7 +16,7 @@ $query="insert into comments(name,comments)
 values('$name','$comments')";
 echo "$query";
 mysqli_query($con,$query);
-header("location:index.php");
+header("location:comments.php");
 echo "$name", "$comments";
 ?>
 

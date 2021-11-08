@@ -1,0 +1,75 @@
+body {
+    margin: 0px;
+}
+#form_block {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    flex-direction: column;
+}
+#php-form {
+    display: flex;
+    flex-direction: column;
+}
+#php-table {
+    border: solid black 2px;
+    width: 396px;
+}
+.phptr {
+    height: 50px;
+}
+.php-td {
+    border: solid black 2px;
+    width: 194px;
+}
+.php-label {
+    padding-left: 5px;
+}
+.php-input, .php-textarea {
+    height: 95%;
+    width: 95%;
+    resize: vertical;
+}
+.php-button {
+    width: 50%;
+    margin: 5px auto 5px auto;
+}
+.existing_comments {
+    width: 400px;
+    margin: 0px auto 0px auto;
+}
+.user {
+    width: fit-content;
+    border: solid black 2px;
+    padding: 0px 4px 0px 4px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+.user_comment {
+    width: 70%;
+    margin-left: 20%;
+    padding: 0px 5% 0px 5%;
+    border-radius: 20px;
+    background-color: lightblue;
+}
+.php-ul {
+    display: flex;
+    height: 100vh;
+    width: 100wh;
+    justify-content:space-around;
+    align-items:center;
+}
+.php-li {
+    display: flex;
+    height:50px;
+    width:200px;
+    border: solid black 1px;
+    border-radius:20px;
+    background-color:rgb( 245, 179, 47);
+    color: rgb(9, 78, 155);
+    justify-content: center;
+    align-items: center;
+    list-style:none;
+}
