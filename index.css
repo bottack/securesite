@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Gloria+Hallelujah&family=Permanent+Marker&display=swap');
 
-body{
+zero {
     display: flex;
     height: 100vh;
     width: 100vw;
@@ -85,7 +85,7 @@ body{
         }
       }
       
-      body {
+      zero {
         max-width: 37.5rem;
         margin: 0 auto;
         padding: 0 1.25rem;
