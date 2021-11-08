@@ -104,7 +104,7 @@
         }
     ?>
     </div>
-    <div id="form_block">
+<div id="form_block">
         <h5 id="tag">Please leave a comment below!</h5>
         <form id="php-form" action="comments_connection.php" method="post">
             <table id="php-table">
@@ -119,7 +119,7 @@
             </table>
             <button type="submit" class="php-button">Submit</button>
         </form>
-    </div>
+</div>
 </body>
 
 </html>
